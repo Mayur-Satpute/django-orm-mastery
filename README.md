@@ -30,3 +30,9 @@ This project is focused on mastering Django ORM from beginner to interview-ready
 3. Install dependencies
 4. Run migrations
 5. Start development server
+
+## Learning Reference
+
+This repository is part of my structured Django ORM learning journey, following tutorials from the BugBytes YouTube channel.
+
+All implementations here are written and practiced independently to strengthen backend development skills.
